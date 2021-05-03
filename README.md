@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Noah - aka [alphaPhantm](https://www.youtube.com/watch?v=Y1z7_GfEPiE) 👋
 
-<!--
-**alphaPhantm/alphaPhantm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
