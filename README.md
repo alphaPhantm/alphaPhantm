@@ -39,8 +39,10 @@
 
 ##
 
-### What I'm hearing right now:
-Spotify
+### What I'm hearing right now 🎧:
+
 
 ##
+
+### My GitHub stats:
 
