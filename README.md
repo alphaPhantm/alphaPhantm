@@ -39,10 +39,8 @@
 
 ##
 
-<br>
-
 ### What I'm hearing right now:
 Spotify
 
 ##
-<br>
+
