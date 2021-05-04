@@ -41,8 +41,7 @@
 ##
 
 ### What I'm hearing right now 🎧:
-[<img src="https://spotify-now-playing-alphaphantm.vercel.app/api/spotify-playing" alt="alphaPhantm Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+[<img src="https://spotify-now-playing-alphaphantm.vercel.app/api/spotify-playing" alt="alphaPhantm Spotify Playing" width="350"/>](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 ##
 
 ### My GitHub stats 📈:
