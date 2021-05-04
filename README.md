@@ -36,8 +36,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jetbrains_logo_icon_169561.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
-##
 <br>
+
+##
+
 
 ### What I'm hearing right now:
 Spotify
