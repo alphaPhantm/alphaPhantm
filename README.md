@@ -47,4 +47,4 @@
 ### My GitHub stats 📈:
 [![alphaPhantm´s GitHub stats](https://github-readme-stats-alphaphantm.vercel.app/api?username=alphaphantm&show_icons=true&theme=radical)](https://github.com/alphaphantm/github-readme-stats)
 <br><br>
-[![Top Languages](https://github-readme-stats-alphaphantm.vercel.app/api/top-langs/?username=alphaPhantm&show_icons=true&theme=radical)](https://github.com/alphaphantm/github-readme-stats)
+[![Top Languages](https://github-readme-stats-alphaphantm.vercel.app/api/top-langs/?username=liza-kl&show_icons=true&theme=radical)](https://github.com/alphaphantm/github-readme-stats)
