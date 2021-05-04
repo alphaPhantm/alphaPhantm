@@ -46,4 +46,4 @@
 ##
 
 ### My GitHub stats 📈:
-
+[![alphaPhantm´s GitHub stats](https://github-readme-stats-alphaphantm.vercel.app/api?username=alphaPhantm)](https://github.com/alphaPhantm/github-readme-stats)
