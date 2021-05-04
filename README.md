@@ -10,7 +10,6 @@
 - 🤿 I love SCUBA Diving Diving 
 
 ##
-<br>
 
 ### Connect with me:
 
