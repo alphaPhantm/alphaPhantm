@@ -2,12 +2,13 @@
 
 ### Something about me:
 
-- 👨‍🎓 I'm a 17 year old student
+- 👨‍🎓 I'm a 17 year old (lucky forgiven) student
 - 🇩🇪 from Germany
 - 💬 Ask me about Algorithms, Data Structures (and everything related 😄)!
 - 🎯 Focusing on Algorithms and Backend
 - 📅 Currently working on my student research project
-- 🤿 I love SCUBA Diving Diving 
+- 🤿 I love SCUBA Diving
+- 🏍️ I am a motorcyclist 
 
 ##
 
