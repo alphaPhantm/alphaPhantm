@@ -3,7 +3,7 @@
 ### Something about me:
 
 - 👨‍🎓 I'm a 17 year old (lucky forgiven) student
-- 🇩🇪 from Germany
+- 🇩🇪 From Germany
 - 💬 Ask me about Algorithms, Data Structures (and everything related 😄)!
 - 🎯 Focusing on Algorithms and Backend
 - 📅 Currently working on my student research project
