@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I'm a 18 year old student 🥳🥳🥳
 - 🇩🇪 From Germany
-- 👩 In a relationship with a beautiful girl
+- 👩 In no relationship
 - 💬 Ask me about Algorithms, Data Structures (and everything related 😄)!
 - 🎯 Focusing on Algorithms and Backend
 - 📅 Currently working on my student research project
