@@ -2,12 +2,12 @@
 
 ### Something about me:
 
-- 👨‍🎓 I'm a 18 year old student 🥳🥳🥳
+- 👨‍🎓 I'm a 19 year old student 🥳🥳🥳
 - 🇩🇪 From Germany
 - 👩 In no relationship
 - 💬 Ask me about Algorithms, Data Structures (and everything related 😄)!
 - 🎯 Focusing on Algorithms and Backend
-- 📅 Currently working on my student research project
+- 📅 Currently enjoying my year off between school and university.
 - 🤿 I love SCUBA Diving
 - 🏍️ I am a motorcyclist 
 
@@ -39,10 +39,6 @@
 
 <br>
 
-##
-
-### What I'm hearing right now 🎧:
-[<img src="https://spotify-now-playing-alphaphantm.vercel.app/api/spotify-playing" alt="alphaPhantm Spotify Playing" width="350"/>](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 ##
 
 ### My GitHub stats 📈:
